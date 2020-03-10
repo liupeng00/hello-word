@@ -1,2 +1,3 @@
 # hello-word
-Just another repository
+The second line changed.
+hiahia,CODE-GOD is coming!
